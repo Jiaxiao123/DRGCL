@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="jiaxiao@122.207.108.53:13000" showAutoUploadSettingsWarning="false">
+    <serverData>
+      <paths name="jiaxiao@122.207.108.53:13000">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/jiaxiao/GCMC" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="jiaxiao@122.207.108.53:13000 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/jiaxiao/GCMC" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>

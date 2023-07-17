@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://sunxl@122.207.108.53:13000/home/sunxl/miniconda3/envs/pytorch1.5-dgl-0.4.3/bin/python3.7" />
+        <remote-mappings server-id="python@sftp://li_server3@122.207.108.53:19000/home/li_server3/pkg/yunyanshuai/anaconda3/envs/sxl_envs/bin/python3.8" />
+        <remote-mappings server-id="python@sftp://jiaxiao@122.207.108.53:13000/home/jiaxiao/anaconda3/envs/MoProEmbeddings/bin/python3.6">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/jiaxiao/GCMC" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
