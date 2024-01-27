@@ -100,7 +100,7 @@ def train(args, dataset, graph_data, cv):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='AdaDR')
+    parser = argparse.ArgumentParser(description='DRGCL')
     parser.add_argument('--seed', default=125, type=int)
     parser.add_argument('--device', default='1', type=int,
                         help='Running device. E.g `--device 0`, if using cpu, set `--device -1`')
